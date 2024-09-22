@@ -1,0 +1,14 @@
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\bin\Debug\net8.0\GerenciadorBiblioteca.AppConsole.exe
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\bin\Debug\net8.0\GerenciadorBiblioteca.AppConsole.deps.json
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\bin\Debug\net8.0\GerenciadorBiblioteca.AppConsole.runtimeconfig.json
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\bin\Debug\net8.0\GerenciadorBiblioteca.AppConsole.dll
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\bin\Debug\net8.0\GerenciadorBiblioteca.AppConsole.pdb
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\GerenciadorBiblioteca.AppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\GerenciadorBiblioteca.AppConsole.AssemblyInfoInputs.cache
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\GerenciadorBiblioteca.AppConsole.AssemblyInfo.cs
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\GerenciadorBiblioteca.AppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\GerenciadorBiblioteca.AppConsole.dll
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\refint\GerenciadorBiblioteca.AppConsole.dll
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\GerenciadorBiblioteca.AppConsole.pdb
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\GerenciadorBiblioteca.AppConsole.genruntimeconfig.cache
+C:\Users\Giovani\GerenciadorBiblioteca.AppConsole\obj\Debug\net8.0\ref\GerenciadorBiblioteca.AppConsole.dll
