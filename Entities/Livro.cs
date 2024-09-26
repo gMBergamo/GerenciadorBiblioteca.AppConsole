@@ -84,6 +84,20 @@ namespace GerenciadorBiblioteca.AppConsole
                 }
         }
 
+        public void Apresentar()
+        {
+            Console.WriteLine($"ID: {Id}");
+            Console.WriteLine($"Título: {Titulo}");
+            Console.WriteLine($"Autor: {Autor}");
+            Console.WriteLine($"ISBN: {ISBN}");
+            Console.WriteLine($"Ano de Publicação: {AnoPublicacao}");
+        }
+
+        public void ApresentarListagem()
+        {
+            Console.WriteLine($"ID: {Id} - Título: {Titulo} - ISBN: {ISBN}");
+        }
+
     }
 }
 

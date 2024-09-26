@@ -6,8 +6,8 @@ namespace GerenciadorBiblioteca.AppConsole
     public partial class Usuario
     {
         private int _id = 0;
-        private string? _nome;
-        private string? _email;
+        private string _nome;
+        private string _email;
 
         public int Id
         {
@@ -57,6 +57,20 @@ namespace GerenciadorBiblioteca.AppConsole
 
         [GeneratedRegex(@"^[^@\s]+@[^@\s]+\.[^@\s]+$")]
         private static partial Regex EmailRegex();
+        
+        public void Apresentar()
+        {
+            Console.WriteLine($"ID: {Id}");
+            Console.WriteLine($"Nome: {Nome}");
+            Console.WriteLine($"Email: {Email}");
+        }
+
+        public void ApresentarListagem()
+        {
+            Console.WriteLine($"ID: {Id} - Nome: {Nome} - Email: {Email}");
+        }
+        
     }
+
     
 }

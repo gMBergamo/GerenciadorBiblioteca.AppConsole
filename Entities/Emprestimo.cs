@@ -3,8 +3,8 @@ namespace GerenciadorBiblioteca.AppConsole
     public class Emprestimo
     {
         private int _id = 0;
-        private Livro? _livro;
-        private Usuario? _usuario;
+        private Livro _livro;
+        private Usuario _usuario;
         private readonly DateTime _dataEmprestimo = DateTime.Now;
         private DateTime _dataDevolucao;
 
@@ -49,6 +49,10 @@ namespace GerenciadorBiblioteca.AppConsole
 
                     _dataDevolucao = value;
                 }
+        }
+
+        public void Apresentar(){
+            Console.WriteLine($"ID: {Id} - Livro: {Livro.Titulo} - Usuário: {Usuario.Nome} - Data de empréstimo: {DataEmprestimo} - Data de devolução: {DataDevolucao}");
         }
 
 
